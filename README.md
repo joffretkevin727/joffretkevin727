@@ -16,7 +16,7 @@
 
 ## 🚀 Projets phares
 
-### 🍰 [La Kévin Dorée](https://github.com/joffretkevin727/livrables_forum_js&go)
+### 🍰 [Forum JS-Go](https://github.com/joffretkevin727/livrables_forum_js&go)
 Forum interactif sur le thème des pâtisseries structuré en architecture **MVC**.
 * **Stack :** `Golang` · `REST API` · `SQL` · `JavaScript` · `HTML5 / CSS3`
 * **Points clés :** Création d'une API REST en Golang, gestion de base de données SQL et communication fluide entre backend Go et frontend dynamique.
@@ -26,7 +26,7 @@ Jeu vidéo de tir 2D multijoueur jouable sur navigateur.
 * **Stack :** `Node.js` · `Socket.io` · `Express` · `JavaScript` · `HTML5 / CSS3`
 * **Points clés :** Synchronisation des joueurs en temps réel via WebSockets, logique de jeu 2D, mouvements et gestion des collisions.
 
-### 🛒 [Les-sbires-Lecheurs](https://github.com/joffretkevin727/livrables-boutique-js)
+### 🛒 [E-Boutique](https://github.com/joffretkevin727/livrables-boutique-js)
 Boutique e-commerce développée selon l'architecture **MVC**.
 * **Stack :** `Node.js` · `Express` · `SQL` · `JavaScript` · `HTML5 / CSS3`
 * **Points clés :** Structuration d'une base de données relationnelle (utilisateurs et catalogue) et organisation modulaire du code.
